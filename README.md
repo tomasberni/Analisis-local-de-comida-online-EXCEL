@@ -1,7 +1,7 @@
 # <h1 align="center">_Analisis Local De Comida Online EXCEL_</h1>
 
 <p align="center">
-  <img src="Capturas/portada.png"  height="200">
+  <img src="Capturas/Portada.png"  height="200">
 <p align="center">
 
 
@@ -48,7 +48,7 @@ Este proyecto se enfoca en el análisis de un dataset de pedidos online, abarcan
 ## Vista Previa
 
 <p align="center">
-  <img src="Capturas/Presentacion-captura-1.png"  height="400">
+  <img src="Capturas/Presentacion-captura-1.PNG"  height="400">
 <p align="center">
 
 ## Colaboradores
