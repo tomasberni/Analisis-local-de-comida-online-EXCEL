@@ -1,7 +1,7 @@
 # <h1 align="center">_Analisis Local De Comida Online EXCEL_</h1>
 
 <p align="center">
-  <img src="imagenes/portada.png"  height="200">
+  <img src="Capturas/portada.png"  height="200">
 <p align="center">
 
 
@@ -48,12 +48,12 @@ Este proyecto se enfoca en el análisis de un dataset de pedidos online, abarcan
 ## Vista Previa
 
 <p align="center">
-  <img src="imagenes/Presentacion-captura-1.png"  height="400">
+  <img src="Capturas/Presentacion-captura-1.png"  height="400">
 <p align="center">
 
 ## Colaboradores
 
 |                         | Nombre   || GitHub & LinkedIn                                                                                                                                                                                          |
 | ----------------------------- | -------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="60" height="60" src="imagenes/fotoTomas.jpg" alt="TomasBerni" /> | Tomas Berni | | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/tomasberni) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomasberni/)                         |                        |
+| <img width="60" height="60" src="Capturas/fotoTomas.jpg" alt="TomasBerni" /> | Tomas Berni | | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/tomasberni) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomasberni/)                         |                        |
 |                               |
