@@ -1,7 +1,7 @@
 # <h1 align="center">_Analisis Local De Comida Online EXCEL_</h1>
 
 <p align="center">
-  <img src="Capturas/Portada.png"  height="200">
+  <img src="Capturas/Portada.png"  height="300" width="700">
 <p align="center">
 
 
