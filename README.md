@@ -35,8 +35,7 @@ Este proyecto se enfoca en el análisis de un dataset de pedidos online, abarcan
 8. **Visualización de Datos en Excel**  
    Creación de gráficos y tablas dinámicas para presentar hallazgos de manera clara y visualmente atractiva.
 
-9. **Conclusiones**
-   Conclusiones del estudio realizado.
+9. **Conclusiones** (En archivo Excel)
 
 
 ## Tecnologias
